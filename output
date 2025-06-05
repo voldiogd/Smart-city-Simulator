@@ -1,0 +1,65 @@
+️Roads selected for Smart City (Minimum Cost - Kruskal):
+0 <-->2 | Cost: ₹2, Time: 5 mins
+1 <-->2 | Cost: ₹3, Time: 7 mins
+3 <-->4 | Cost: ₹5, Time: 6 mins
+2 <-->4 | Cost: ₹6, Time: 8 mins
+4 <-->5 | Cost: ₹8, Time: 9 mins
+
+ Total Construction Cost: ₹24
+
+ Shortest Travel Times from Zone 0:
+ To Zone 0: 0 mins
+ To Zone 1: 12 mins
+ To Zone 2: 5 mins
+ To Zone 3: 19 mins
+ To Zone 4: 13 mins
+ To Zone 5: 22 mins
+Time to go to farther node = 22 mins 
+
+ Shortest Travel Times from Zone 1:
+ To Zone 0: 12 mins
+ To Zone 1: 0 mins
+ To Zone 2: 7 mins
+ To Zone 3: 21 mins
+ To Zone 4: 15 mins
+ To Zone 5: 24 mins
+Time to go to farther node = 24 mins 
+
+ Shortest Travel Times from Zone 2:
+ To Zone 0: 5 mins
+ To Zone 1: 7 mins
+ To Zone 2: 0 mins
+ To Zone 3: 14 mins
+ To Zone 4: 8 mins
+ To Zone 5: 17 mins
+Time to go to farther node = 17 mins 
+
+ Shortest Travel Times from Zone 3:
+ To Zone 0: 19 mins
+ To Zone 1: 21 mins
+ To Zone 2: 14 mins
+ To Zone 3: 0 mins
+ To Zone 4: 6 mins
+ To Zone 5: 15 mins
+Time to go to farther node = 21 mins 
+
+ Shortest Travel Times from Zone 4:
+ To Zone 0: 13 mins
+ To Zone 1: 15 mins
+ To Zone 2: 8 mins
+ To Zone 3: 6 mins
+ To Zone 4: 0 mins
+ To Zone 5: 9 mins
+Time to go to farther node = 15 mins 
+
+ Shortest Travel Times from Zone 5:
+ To Zone 0: 22 mins
+ To Zone 1: 24 mins
+ To Zone 2: 17 mins
+ To Zone 3: 15 mins
+ To Zone 4: 9 mins
+ To Zone 5: 0 mins
+Time to go to farther node = 24 mins 
+
+
+=== Code Execution Successful ===
