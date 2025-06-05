@@ -91,8 +91,8 @@ public:
             if (dist[i] == INT_MAX) cout << "Not reachable\n";
             else cout << dist[i] << " mins\n";
         }
-        int sm = accumulate(dist.begin(), dist.end(),0);
-        cout << "Total Time to go all zones = "<< sm << " mins \n";
+        int sm = *max_element(dist.begin(), dist.end());
+        cout << "Time to go to farther node = "<< sm << " mins \n";
     }
 };
 
